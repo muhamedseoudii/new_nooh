@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979437339596",
+    "project_id": "noah-iptv-ff8c3",
+    "storage_bucket": "noah-iptv-ff8c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979437339596:android:6d590cc2ef42003e131369",
+        "android_client_info": {
+          "package_name": "com.arcodx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOQo-p4UmmUU-x_8cgmnl117ZjXE4n0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979437339596:android:de30670eff908db4131369",
+        "android_client_info": {
+          "package_name": "com.arcodx.nooh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOQo-p4UmmUU-x_8cgmnl117ZjXE4n0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
