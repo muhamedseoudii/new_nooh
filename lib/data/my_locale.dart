@@ -41,6 +41,7 @@ class MyLocale implements Translations {
           "series category": "اقسام المسلسلات",
           "no matches found": "لم يتم العثور على أي مباريات",
           "no items found": "لم يتم العثور على أي عناصر",
+          "episodes": "حلقات:",
         },
         "en": {
           "nooh": "Nooh",
@@ -80,6 +81,7 @@ class MyLocale implements Translations {
           "series category": "Series category",
           "no matches found": "No matches found",
           "no items found": "No items found",
+          "episodes": "Episodes:",
         },
       };
 }

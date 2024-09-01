@@ -121,7 +121,7 @@ class SeriesDetailsView extends StatelessWidget {
                     ),
                     SizedBox(height: 20.h),
                     Text(
-                      "Episodes:",
+                      "episodes".tr,
                       style: AppTextStyles.largeTitle16,
                     ),
                     SizedBox(height: 20.h),
