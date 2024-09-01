@@ -116,7 +116,7 @@ class MovieDetailsView extends StatelessWidget {
                               borderRadius: BorderRadius.circular(5.r),
                               color: ColorManager.primary),
                           child: Text(
-                            "${movie.duration.toString()} hours",
+                            "${movie.duration.toString()} min.",
                             style: AppTextStyles.largeTitle16,
                           ),
                         ),
